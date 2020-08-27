@@ -1,0 +1,37 @@
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.UDPSender.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\UDPSender.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\CRC.dll
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\CRC.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\UDPSender.csproj.CopyComplete
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\WindowsFormsApp2.exe
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\WindowsFormsApp2.pdb
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\CRC.dll
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\CRC.pdb
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.UDPSender.resources
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\UDPSender.csproj.GenerateResource.cache
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\UDPSender.csproj.CopyComplete
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.exe
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.pdb
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\WindowsFormsApp2.exe.config
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\WindowsFormsApp2.exe.manifest
+D:\visual_studio_project\source\report\UDP\bin\x86\Debug\WindowsFormsApp2.application
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.TrustInfo.xml
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.exe.manifest
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\WindowsFormsApp2.application
+D:\visual_studio_project\source\report\UDP\obj\x86\Debug\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\WindowsFormsApp2.UDPSender.resources
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\UDPSender.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\Desktop\UDP с BCC\obj\x86\Debug\WindowsFormsApp2.pdb
+C:\Users\Tom\Desktop\UDP с BCC\bin\x86\Debug\WindowsFormsApp2.exe.config
+C:\Users\Tom\Desktop\UDP с BCC\bin\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\Desktop\UDP с BCC\bin\x86\Debug\WindowsFormsApp2.pdb

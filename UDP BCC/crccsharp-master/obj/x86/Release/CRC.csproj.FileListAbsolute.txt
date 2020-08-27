@@ -1,0 +1,4 @@
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\crccsharp-master\bin\x86\Release\CRC.dll
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\crccsharp-master\bin\x86\Release\CRC.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\crccsharp-master\obj\x86\Release\CRC.dll
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\crccsharp-master\obj\x86\Release\CRC.pdb

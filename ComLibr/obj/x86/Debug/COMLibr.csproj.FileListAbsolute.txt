@@ -1,0 +1,4 @@
+C:\Users\Tom\source\repos\COMLibr\obj\x86\Debug\COMLibr.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\COMLibr\obj\x86\Debug\Interop.Artonit2.dll
+C:\Users\Tom\source\repos\COMLibr\obj\x86\Debug\Interop.TS2TLB.dll
+C:\Users\Tom\source\repos\COMLibr\obj\x86\Debug\COMLibr.csproj.ResolveComReference.cache

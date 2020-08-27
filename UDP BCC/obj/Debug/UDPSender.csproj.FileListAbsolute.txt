@@ -1,0 +1,17 @@
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UDPSender.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\UDPSender.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CRC.dll
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CRC.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\UDPSender.csproj.CopyComplete
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\WindowsFormsApp2.UDPSender.resources
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\UDPSender.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tom\Desktop\UDP с BCC\obj\Debug\WindowsFormsApp2.pdb

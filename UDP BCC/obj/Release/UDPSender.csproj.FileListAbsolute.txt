@@ -1,0 +1,8 @@
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\UDPSender.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.UDPSender.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\UDPSender.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Tom\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
